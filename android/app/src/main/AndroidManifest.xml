@@ -16,7 +16,7 @@ Copyright 2017 Google Inc.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.google.example.babelfirelive">
+    package="bo.com.syscode.universaltranslator">
 
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
 
@@ -28,7 +28,7 @@ Copyright 2017 Google Inc.
         android:theme="@style/AppTheme"
         tools:replace="android:supportsRtl">
         <activity
-            android:name="com.google.example.babelfirelive.MainActivity"
+            android:name="bo.com.syscode.universaltranslator.MainActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

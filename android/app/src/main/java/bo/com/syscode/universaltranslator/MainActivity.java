@@ -14,7 +14,7 @@
 *  limitations under the License.
 */
 
-package com.google.example.babelfirelive;
+package bo.com.syscode.universaltranslator;
 
 import android.content.Intent;
 import android.media.MediaRecorder;
