@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "329705470563",
+    "firebase_url": "https://traductoruniversal-6d4f3.firebaseio.com",
+    "project_id": "traductoruniversal-6d4f3",
+    "storage_bucket": "traductoruniversal-6d4f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329705470563:android:f77590eb42908e10",
+        "android_client_info": {
+          "package_name": "bo.com.syscode.universaltranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329705470563-q8qujb2afveqlk9358tctpj00fp0bs5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaadkuSP1YNoMb4kKSxR7MiHHzRGDmjbA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
